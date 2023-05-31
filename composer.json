@@ -1,5 +1,5 @@
 {
-    "name": "davidhsianturi/laravel-compass",
+    "name": "tisv/laravel-compass",
     "description": "An elegant REST assistent for the Laravel framework.",
     "keywords": [
         "laravel",
@@ -7,11 +7,11 @@
         "testing",
         "documentation"
     ],
-    "homepage": "https://github.com/davidhsianturi/laravel-compass",
+    "homepage": "https://github.com/tisv/laravel-compass",
     "license": "MIT",
     "authors": [{
-        "name": "David H. Sianturi",
-        "email": "davidhsianturi@gmail.com"
+        "name": "tisv",
+        "email": "tisv@foxmail.com"
     }],
     "require": {
         "php": "^7.3|^8.0",
